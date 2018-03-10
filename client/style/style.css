@@ -1,0 +1,51 @@
+body{
+    background-image: url('./../images/bike-day-site.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position-x: 50%;    
+}
+
+h1{
+    background: rgba(61, 163, 161, 0.88);
+    text-align: center;
+}
+
+h3{
+    background-color: #941414;
+    padding: 8px 8px 8px 48px;
+}
+
+input{
+    font-size: 23px;
+    color: black;    
+}
+
+table{
+    background-color: rgba(0, 0, 0, 0.6588235294117647);
+}
+
+.th-day{
+    font-size: 44px;
+    padding-left: 26px;
+}
+
+th span {
+    font-size: 16px; 
+    color:rgb(0, 255, 215) ;
+}
+
+td{
+    text-align: center; 
+}
+
+.Perfect{
+    color: blue;
+    background:rgb(0, 218, 173);
+}
+
+.table-header{  
+    color: black;   
+    text-align: center;
+    font-size: 20px; 
+}
