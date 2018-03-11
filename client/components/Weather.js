@@ -106,7 +106,7 @@ class Weather extends Component{
 
     render(){
         if(this.props.data.loading){
-            console.log(this.props.data);
+
             return <div>loading...</div> 
         }
         return  (
